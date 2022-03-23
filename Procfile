@@ -1,1 +1,1 @@
-worker: python nee.py
+worker: python orange.py
